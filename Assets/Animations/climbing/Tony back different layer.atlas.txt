@@ -1,0 +1,76 @@
+
+Tony back different layer.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 70
+  size: 150, 437
+  orig: 150, 437
+  offset: 0, 0
+  index: -1
+left arm 1
+  rotate: false
+  xy: 918, 172
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+left arm 2
+  rotate: true
+  xy: 798, 141
+  size: 40, 112
+  orig: 40, 112
+  offset: 0, 0
+  index: -1
+left leg 1
+  rotate: true
+  xy: 702, 152
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+left leg 2
+  rotate: true
+  xy: 441, 158
+  size: 62, 158
+  orig: 62, 158
+  offset: 0, 0
+  index: -1
+right arm 1
+  rotate: false
+  xy: 441, 88
+  size: 107, 68
+  orig: 107, 68
+  offset: 0, 0
+  index: -1
+right arm 2
+  rotate: true
+  xy: 798, 183
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+right leg 1
+  rotate: true
+  xy: 601, 155
+  size: 65, 99
+  orig: 65, 99
+  offset: 0, 0
+  index: -1
+right leg 2
+  rotate: true
+  xy: 278, 4
+  size: 64, 154
+  orig: 64, 154
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 2, 2
+  size: 66, 274
+  orig: 66, 274
+  offset: 0, 0
+  index: -1

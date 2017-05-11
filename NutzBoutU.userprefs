@@ -1,0 +1,31 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_Scripts/Climb.cs">
+    <Files>
+      <File FileName="Assets/_Scripts/MoveGround.cs" Line="224" Column="1" />
+      <File FileName="Assets/_Scripts/GetHitByInsult.cs" Line="1" Column="1" />
+      <File FileName="Assets/spine-unity/SkeletonAnimation.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/NeighborsAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/NutDestruction.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/RandomlyChoose.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/RandomlyOpen.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/RemoveWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Restart.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/Climb.cs" Line="68" Column="39" />
+      <File FileName="Assets/_Scripts/InstantiateWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/CollectNuts.cs" Line="39" Column="57" />
+      <File FileName="Assets/Guide.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/InstantiateBranches.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/ThrowGarbage.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/BossAction.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/HealthEffect.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/CharacterMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/ThrowNuts.cs" Line="1" Column="1" />
+      <File FileName="Assets/_Scripts/InstantiateFloors.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
